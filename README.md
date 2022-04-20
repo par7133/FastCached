@@ -10,5 +10,5 @@
  @note You have to declare in your "config.inc" file - or whatever file you    
  use for the purpose, the following global constants:    
  define('CACHE_HOST', "localhost");    
- define('CACHE_PORT', "11211"); 
+ define('CACHE_PORT', "11211");    
  define('CACHE_APP_PREFIX', "MyAPP_12345");
