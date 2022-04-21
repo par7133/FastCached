@@ -1,6 +1,6 @@
  FastCache    
 
- FastCache class (using Memcached)  
+ FastCache class ported to Memcached (same interface)  
 
  @package  OpenGallery   http://github.com/par7133     
  @author   Daniele Bonini <my25mb@aol.com>    
