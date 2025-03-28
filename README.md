@@ -3,7 +3,7 @@
  FastCache class ported to Memcached (same interface)  
 
  @package  OpenGallery   http://github.com/par7133     
- @author   Daniele Bonini <posta@elettronica.lol>    
+ @author   Daniele Bonini <code@gaox.io>    
  @version  2.0    
  @phpver   7.4 up     
  @access   public    
